@@ -51,3 +51,4 @@
 # Fix bug on 2021-07-23T11:00:41
 # Update README on 2021-07-15T17:07:13
 # Refactor code on 2021-08-11T13:56:18
+# Add config on 2021-08-24T12:42:49
