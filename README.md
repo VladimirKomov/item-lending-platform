@@ -96,3 +96,4 @@
 # Improve docs on 2022-02-25T15:51:15
 # Fix bug on 2022-02-27T17:58:35
 # Update README on 2022-02-16T18:04:36
+# Change API logic on 2022-02-21T10:34:29
