@@ -1,114 +1,96 @@
-# Item Lending Platform
-# Improve performance on 2021-01-01T09:04:06
-# Update README on 2021-01-28T10:51:35
-# Change API logic on 2021-01-07T10:36:23
-# Improve docs on 2021-01-16T11:24:41
-# Improve performance on 2021-01-24T13:51:48
-# Improve docs on 2021-01-22T18:02:32
-# Fix bug on 2021-01-18T11:54:23
-# Add helper on 2021-01-22T15:22:22
-# Fix bug on 2021-02-15T11:55:59
-# Add helper on 2021-02-28T17:06:51
-# Add helper on 2021-02-01T16:55:07
-# Update README on 2021-02-21T14:06:21
-# Comment update on 2021-02-04T13:21:02
-# Update README on 2021-02-09T09:42:43
-# Add helper on 2021-02-20T17:40:08
-# Refactor code on 2021-02-13T12:23:14
-# Update README on 2021-03-21T09:26:41
-# Cleanup on 2021-03-03T14:48:14
-# Comment update on 2021-03-14T12:34:15
-# Fix bug on 2021-03-03T10:06:16
-# Refactor code on 2021-03-19T15:36:16
-# Cleanup on 2021-03-08T14:49:59
-# Comment update on 2021-04-01T11:29:23
-# Add helper on 2021-04-21T16:19:18
-# Improve docs on 2021-04-10T12:02:09
-# Change API logic on 2021-04-02T13:36:44
-# Change API logic on 2021-04-12T10:49:47
-# Improve performance on 2021-04-21T11:01:50
-# Add config on 2021-04-20T12:12:23
-# Cleanup on 2021-04-01T16:50:15
-# Cleanup on 2021-05-19T13:05:53
-# Fix bug on 2021-05-07T16:17:19
-# Improve performance on 2021-05-19T16:20:46
-# Update README on 2021-05-13T09:51:18
-# Refactor code on 2021-05-06T11:37:09
-# Cleanup on 2021-05-23T10:50:07
-# Fix bug on 2021-06-27T09:06:57
-# Improve performance on 2021-06-18T17:05:09
-# Refactor code on 2021-06-28T09:53:39
-# Update README on 2021-06-25T17:35:13
-# Change API logic on 2021-06-26T14:56:34
-# Improve performance on 2021-06-11T14:37:42
-# Refactor code on 2021-06-18T14:28:25
-# Cleanup on 2021-06-24T10:00:24
-# Improve docs on 2021-07-13T18:08:00
-# Update README on 2021-07-22T13:07:20
-# Cleanup on 2021-07-15T10:22:14
-# Improve performance on 2021-07-25T10:59:31
-# Fix bug on 2021-07-24T10:22:14
-# Fix bug on 2021-07-23T11:00:41
-# Update README on 2021-07-15T17:07:13
-# Refactor code on 2021-08-11T13:56:18
-# Add config on 2021-08-24T12:42:49
-# Update README on 2021-08-23T14:59:30
-# Change API logic on 2021-08-05T10:42:56
-# Refactor code on 2021-08-21T15:31:48
-# Add config on 2021-08-01T14:07:51
-# Update README on 2021-08-15T17:51:56
-# Refactor code on 2021-09-08T11:48:41
-# Refactor code on 2021-09-24T12:57:30
-# Change API logic on 2021-09-18T13:35:23
-# Fix bug on 2021-09-21T14:12:52
-# Improve docs on 2021-09-15T16:09:58
-# Improve docs on 2021-09-11T13:15:57
-# Update README on 2021-09-17T11:10:09
-# Refactor code on 2021-10-21T09:24:19
-# Change API logic on 2021-10-23T11:46:42
-# Change API logic on 2021-10-15T09:27:45
-# Add helper on 2021-10-12T09:37:09
-# Add helper on 2021-10-27T17:39:59
-# Add config on 2021-10-10T11:35:44
-# Cleanup on 2021-10-05T11:55:15
-# Improve performance on 2021-10-24T14:04:33
-# Update README on 2021-11-25T18:45:52
-# Update README on 2021-11-15T10:58:03
-# Improve docs on 2021-11-12T16:02:47
-# Comment update on 2021-11-10T14:27:01
-# Fix bug on 2021-11-15T13:06:11
-# Update README on 2021-11-16T18:02:40
-# Cleanup on 2021-11-25T17:51:03
-# Improve docs on 2021-12-14T10:20:53
-# Improve performance on 2021-12-28T15:20:40
-# Comment update on 2021-12-09T09:41:31
-# Fix bug on 2021-12-24T17:17:06
-# Cleanup on 2021-12-14T18:27:43
-# Comment update on 2021-12-11T14:57:24
-# Update README on 2022-01-08T12:54:08
-# Add config on 2022-01-23T15:34:52
-# Add config on 2022-01-04T11:10:13
-# Update README on 2022-01-14T14:52:48
-# Cleanup on 2022-01-24T16:36:20
-# Cleanup on 2022-01-03T10:10:13
-# Refactor code on 2022-01-05T09:09:16
-# Comment update on 2022-01-19T13:59:36
-# Improve docs on 2022-02-25T15:51:15
-# Fix bug on 2022-02-27T17:58:35
-# Update README on 2022-02-16T18:04:36
-# Change API logic on 2022-02-21T10:34:29
-# Add helper on 2022-02-26T13:55:24
-# Add helper on 2022-02-22T17:25:21
-# Add helper on 2022-02-09T14:52:05
-# Change API logic on 2022-03-18T13:06:52
-# Comment update on 2022-03-02T09:08:20
-# Improve performance on 2022-03-05T18:57:46
-# Change API logic on 2022-03-07T16:05:57
-# Improve performance on 2022-03-26T10:55:37
-# Add helper on 2022-03-04T17:10:34
-# Add config on 2022-04-03T10:51:16
-# Cleanup on 2022-04-20T17:55:06
-# Improve performance on 2022-04-11T16:56:10
-# Refactor code on 2022-04-15T12:29:16
-# Add config on 2022-04-21T16:49:23
-# Change API logic on 2022-04-27T15:20:33
+# 📦 Item Lending Platform (Backend Only)
+
+This project is an educational **backend-only API** that enables users to share items, manage orders, and leave reviews. It is built with **Django** and **Django REST Framework**, includes JWT-based authentication, AWS S3 media storage, and supports caching via Redis. The system is containerized with Docker and can be easily deployed locally.
+
+---
+
+## ✨ Key Features
+
+- 🔐 **JWT Authentication** – secure login and token-based access
+- 📦 **Item Management** – add, update, and view items with images
+- 🏷️ **Categories & Filtering** – organize and search items by category
+- 🛒 **Orders and Reviews** – borrow items and leave feedback
+- 🧑‍💼 **User Dashboard** – manage profile, orders, and listings
+- 🗺️ **Google Maps Integration** – geolocation support for items
+- ☁️ **AWS S3** – scalable image storage
+- ⚡ **Redis Caching** – improve response times for frequent queries
+- 🐳 **Docker Support** – launch the entire stack with one command
+
+---
+
+## ⚙️ Tech Stack
+
+- 🌐 **Backend:** Django, Django REST Framework
+- 🧠 **Auth:** JWT via `djangorestframework-simplejwt`
+- 🐘 **Database:** PostgreSQL
+- ☁️ **Storage:** AWS S3 for media files
+- ⚡ **Cache:** Redis
+- 🐳 **Containerization:** Docker + Docker Compose
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/VladimirKomov/item-lending-platform.git
+cd item-lending-platform
+```
+
+### 2️⃣ Configure Environment Variables
+
+Create a `.env` file in the project root and set the following:
+
+```env
+# PostgreSQL
+DB_NAME=your_database_name
+DB_USER=your_database_user
+DB_PASSWORD=your_database_password
+DB_HOST=your_database_host
+DB_PORT=5432
+
+# AWS S3
+AWS_ACCESS_KEY_ID=your_access_key
+AWS_SECRET_ACCESS_KEY=your_secret
+AWS_STORAGE_BUCKET_NAME=your_bucket_name
+AWS_S3_REGION_NAME=your_region
+```
+
+### 3️⃣ Run the application with Docker
+
+```bash
+docker-compose up --build
+```
+
+- API available at: http://localhost:8000
+- Django admin: http://localhost:8000/admin/
+
+---
+
+## 🔧 Useful Commands (in container)
+
+```bash
+# Run migrations
+python manage.py migrate
+
+# Create superuser
+python manage.py createsuperuser
+
+# Collect static files
+python manage.py collectstatic
+```
+
+---
+
+## 📜 License
+
+This project is provided for educational and personal use only. Commercial use is not permitted.
+
+---
+
+## 👤 Author
+
+**Vladimir Komov**  
+GitHub: [@VladimirKomov](https://github.com/VladimirKomov)  
+LinkedIn: [Vladimir Komov](https://www.linkedin.com/in/vladimirkomov)
